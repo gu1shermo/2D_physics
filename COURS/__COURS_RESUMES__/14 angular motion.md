@@ -1,5 +1,5 @@
 
-![[medias/14 angular motion 2025-11-11 07.27.50.excalidraw|800]]
+![[medias/14 angular motion 2025-11-11 07.27.50.excalidraw|1000]]
 
 ### Implémentation test4
 
