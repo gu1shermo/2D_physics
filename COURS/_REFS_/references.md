@@ -24,3 +24,9 @@
 - papers soft body simulation
 	- https://research.ncl.ac.uk/game/research/publications/Real-Time%20Deformable%20Soft-Body%20Simulation.pdf
 	- https://panoramx.ift.uni.wroc.pl/~maq/soft2d/howtosoftbody.pdf
+- soft body
+	- https://youtu.be/SIyKD0Qx2Ak
+- coding train
+	- https://youtu.be/IxdGyqhppis
+-  physics engine in one week end
+	- https://gamephysicsweekend.github.io/
