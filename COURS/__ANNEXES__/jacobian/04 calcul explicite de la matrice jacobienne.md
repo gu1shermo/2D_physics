@@ -52,6 +52,10 @@ Le terme $y$ donne 1, et $\sin(x)$ est constant par rapport à $y$.
 
 ---
 
+![[medias/04 calcul explicite de la matrice jacobienne-20260102.png]]
+
+---
+
 ## Jacobienne générale
 En regroupant ces dérivées partielles, on obtient la matrice jacobienne générale, valable pour tout point $(x,y)$ :
 $$

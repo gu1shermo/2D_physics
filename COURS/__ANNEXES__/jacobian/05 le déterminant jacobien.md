@@ -19,6 +19,10 @@ Ainsi, le déterminant encode la manière dont une transformation **étire** (*s
 
 ---
 
+![[medias/jaco03.gif]]
+
+---
+
 ### 2. Passage aux fonctions de plusieurs variables (multivariable functions)
 Considérons une fonction à deux variables :
 $$
@@ -53,6 +57,9 @@ Dans notre cas :
 
 La jacobienne est donc une **fonction à valeurs matricielles** (*matrix-valued function*), dépendant de $x$ et $y$.  
 Évaluée en un point précis, elle devient une matrice numérique décrivant la transformation linéaire locale.  
+
+![[medias/05 le déterminant jacobien-20260102.png]]
+
 
 ---
 

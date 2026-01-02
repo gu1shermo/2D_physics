@@ -38,6 +38,10 @@ Cette propriété caractérise précisément une transformation linéaire : la s
 
 ---
 
+![[medias/jaco00.gif]]
+
+---
+
 ## Les vecteurs de base canonique
 Pour comprendre entièrement l’action d’une matrice, on observe son effet sur les vecteurs de base canonique (canonical basis vectors) :
 $$

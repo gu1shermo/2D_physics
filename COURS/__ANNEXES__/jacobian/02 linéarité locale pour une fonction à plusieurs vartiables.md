@@ -25,6 +25,10 @@ Cette observation montre que la transformation n’est pas linéaire : elle néc
 
 ---
 
+![[medias/jaco01.gif]]
+
+---
+
 ## Étude du comportement en un point
 Pour mieux comprendre une telle transformation, il est utile de se concentrer sur un point particulier. Considérons par exemple le point $(\pi/2,\,0)$. En évaluant la fonction en ce point :
 $$
@@ -41,6 +45,10 @@ f\left(\frac{\pi}{2},0\right)
 \end{pmatrix}
 $$
 Géométriquement, ce point est donc déplacé verticalement d’une unité, sans modification de sa coordonnée horizontale.
+
+---
+
+![[medias/jaco02.gif]]
 
 ---
 

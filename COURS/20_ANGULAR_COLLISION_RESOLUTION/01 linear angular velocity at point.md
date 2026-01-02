@@ -7,7 +7,6 @@
 Nous avons détecté une collision entre deux polygones rigides à l’aide de l’algorithme SAT (*Separating Axis Theorem*).  
 Les informations de collision ont été calculées : normale de collision (*collision normal*), profondeur de pénétration (*penetration depth*) et point de contact (*contact point*).  
 Il s’agit maintenant de **résoudre cette collision** de manière physiquement réaliste.  
-#collision-resolution #sat-algorithm #rigid-body-physics
 
 ---
 
@@ -15,7 +14,6 @@ Il s’agit maintenant de **résoudre cette collision** de manière physiquement
 
 Pour résoudre la collision, nous utilisons la **méthode des impulsions** (*impulse method*), déjà employée pour les collisions cercle–cercle.  
 Cette méthode consiste à appliquer une impulsion instantanée aux corps rigides afin de les séparer et de modifier leurs vitesses.  
-#impulse-method #collision-response
 
 ---
 
@@ -26,7 +24,6 @@ Pour les polygones, ce n’est plus le cas : la collision peut induire une **rot
 Il faut donc désormais prendre en compte :
 - une impulsion linéaire (changement de vitesse linéaire),
 - une impulsion angulaire (*angular impulse*) provoquant un changement de vitesse angulaire (*angular velocity*).  
-#rotation #angular-impulse #rigid-body-dynamics
 
 ---
 

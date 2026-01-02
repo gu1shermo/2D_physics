@@ -39,6 +39,11 @@ En divisant chacune de ces variations par $dx$, on obtient des quantités indép
 
 ---
 
+![[medias/03 la matrice jacobienne-20260102.png]]
+
+
+---
+
 ## Effet d’un petit déplacement selon l’axe $y$
 De manière analogue, on considère un déplacement infinitésimal $dy$ vers le haut. Après transformation, ce déplacement possède également deux composantes :
 
@@ -46,6 +51,11 @@ De manière analogue, on considère un déplacement infinitésimal $dy$ vers le 
 - une composante verticale, donnée par la variation de $f_2$ induite par $dy$.
 
 En divisant par $dy$, on obtient les dérivées partielles $\partial f_1 / \partial y$ et $\partial f_2 / \partial y$. Ces deux quantités forment la seconde colonne de la matrice associée à la transformation linéaire locale.
+
+---
+
+![[medias/03 la matrice jacobienne-20260102-1.png]]
+
 
 ---
 
